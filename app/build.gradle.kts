@@ -95,7 +95,7 @@ dependencies {
 
     // activity & fragment ktx
     implementation("androidx.fragment:fragment-ktx:1.3.6")
-    implementation("androidx.activity:activity-ktx:1.4.0")
+    implementation("androidx.activity:activity-ktx:1.7.2")
     implementation("androidx.appcompat:appcompat:1.4.0-rc01")
 
     // Lottie Animation Library
